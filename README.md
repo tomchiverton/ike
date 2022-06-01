@@ -8,9 +8,12 @@ Website: https://www.shrew.net/home
 
 # Install
 
-`snap install --edge ike-qt`
+`snap install --edge ike-qt-lts` or use something like the Ubuntu Software store
 
 Before use, start the service
 `sudo snap start ike-qt`
+
+To open the graphical interface 
+`/snap/bin/ike-qt-lts.qikea`
 
 # Still in beta, some features may not work.
