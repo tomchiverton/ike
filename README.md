@@ -4,8 +4,6 @@ Modern Watchgurad allow downloading of a OpenVPN configuration file from  https:
 
 At least it does for me on Ubuntu 24.04 LTS under KDE, which means I no longer have hardware to test this against.
 
-Tom
-
 # ike
 
 Also known as the Shrewsoft VPN Manager.
