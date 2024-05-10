@@ -1,3 +1,11 @@
+# No longer required
+
+Modern Watchgurad allow downloading of a OpenVPN configuration file from  https://your gateway here/sslvpn_logon.shtml that works out of the box.
+
+At least it does for me on Ubuntu 24.04 LTS under KDE, which means I no longer have hardware to test this against.
+
+Tom
+
 # ike
 
 Also known as the Shrewsoft VPN Manager.
@@ -10,10 +18,14 @@ Website: https://www.shrew.net/home
 
 `snap install --edge ike-qt-lts` or use something like the Ubuntu Software store
 
+# Usgae
+
 Before use, start the service
 `sudo snap start ike-qt`
 
 To open the graphical interface 
 `/snap/bin/ike-qt-lts.qikea`
+
+Example : https://github.com/tomchiverton/ike/wiki#basic-start-up-script
 
 # Still in beta, some features may not work.
